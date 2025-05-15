@@ -2,6 +2,10 @@
 
 A Next.js application demonstrating the implementation of the Travel Rule for cryptocurrency withdrawals. This demo showcases how to verify wallet ownership and handle cross-chain transactions while complying with FATF Travel Rule requirements.
 
+## Demo
+
+https://travel-rule-demo.reown.com/
+
 ## Features
 
 - Multi-chain support (Bitcoin, Ethereum, Solana)
