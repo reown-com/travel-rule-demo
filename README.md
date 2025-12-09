@@ -34,7 +34,7 @@ https://travel-rule-demo.reown.com/
 ### Prerequisites
 
 - Node.js 18.x or later
-- npm or yarn
+- pnpm
 - A wallet that supports the chains you want to test with
 
 ### Installation
@@ -47,9 +47,7 @@ cd travel-rule-frontend
 
 2. Install dependencies:
 ```bash
-npm install
-# or
-yarn install
+pnpm install
 ```
 
 3. Create a `.env.local` file in the root directory and add your environment variables:
@@ -59,9 +57,7 @@ NEXT_PUBLIC_APPKIT_PROJECT_ID=your_project_id_here
 
 4. Start the development server:
 ```bash
-npm run dev
-# or
-yarn dev
+pnpm dev
 ```
 
 The application will be available at `http://localhost:3000`
@@ -128,4 +124,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Reown AppKit for SIWX and Travel Rule verification.
 - Next.js team for the framework
-- The open-source community for various dependencies 
+- The open-source community for various dependencies      
