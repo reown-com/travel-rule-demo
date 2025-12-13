@@ -8,9 +8,9 @@
       "valibot@>=0.31.0 <1.2.0": ">=1.2.0"
     },
     "auditConfig": {
-            "ignoreCves": [
-              "CVE-2025-3194"
-            ]
+      "ignoreCves": [
+        "CVE-2025-3194"
+      ]
     }
   },
   "scripts": {
@@ -63,7 +63,7 @@
     "ethers": "^6.16.0",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",
-    "next": "15.4.8",
+    "next": "15.4.10",
     "next-themes": "^0.4.6",
     "react": "^19",
     "react-day-picker": "8.10.1",
